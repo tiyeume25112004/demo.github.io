@@ -73,7 +73,7 @@ $('#no').click(() => {
 // generate text in input
 function textGenerate() {
     var n = "";
-    var text = " Tại vì tớ thích cậu ý!! ";
+    var text = " Cậu luôn luôn xuất hiện và giúp đỡ tớ. Như thiên thần á. Tớ đã đổ cậu ngay từ phút giây đầu. Làm người iu tớ nhé Đạt! ";
     var a = Array.from(text);
     var textVal = $('#txtReason').val() ? $('#txtReason').val() : "";
     var count = textVal.length;
@@ -109,7 +109,7 @@ $('#yes').click(function() {
               no-repeat
             `,
         showCancelButton: true,
-        cancelButtonText: "Cậu luôn luôn xuất hiện và giúp đỡ tớ. Như thiên thần á. Tớ đã đổ cậu ngay từ phút giây đầu. Làm người iu tớ nhé Đạt!",
+        cancelButtonText: "Cậu kawaii thế!!",
         confirmButtonColor: '#3085d6',
         cancelButtonColor: '#d33',
         confirmButtonColor: '#fe8a71',
