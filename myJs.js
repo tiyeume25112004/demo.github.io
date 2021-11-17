@@ -109,7 +109,7 @@ $('#yes').click(function() {
               no-repeat
             `,
         showCancelButton: true,
-        cancelButtonText: "Cậu tốt bụng nè, tử tế và hay giúp tớ nữa!",
+        cancelButtonText: "Cậu luôn luôn xuất hiện và giúp đỡ tớ. Như thiên thần á. Tớ đã đổ cậu ngay từ phút giây đầu. Làm người iu tớ nhé Đạt!",
         confirmButtonColor: '#3085d6',
         cancelButtonColor: '#d33',
         confirmButtonColor: '#fe8a71',
@@ -122,7 +122,7 @@ $('#yes').click(function() {
                 confirmButtonText: 'Okiiiii lun <3',
                 background: '#fff url("iput-bg.jpg")',
                 title: 'Tớ cũng yêu cậu',
-                text: "Tối nay chúng mình qua nhà tớ nhé. Có mỗi tớ ở nhà thôi! Xem anime á :>> IB tớ nha",
+                text: "Tối nay chúng mình qua nhà tớ nhé. Có mỗi tớ ở nhà thôi! Yên tâm ko ai quấy rầy đâu. Xem anime thôi á :>",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
                     window.location = 'https://www.facebook.com/kon.chan.spycio/';
